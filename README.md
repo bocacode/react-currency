@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Simple React Currency Converter
+
+Built a simple static currency converter using React and Ant Design.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
